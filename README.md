@@ -1,4 +1,4 @@
-# Raylab — GPU Ray Tracing & Optical Simulation (NumPy + CuPy)
+# Raylab: A GPU Ray Tracing & Optical Simulation (NumPy + CuPy)
 
 ### Overview
 **Raylab** is an interactive, GPU-accelerated notebook environment for exploring the fundamentals of **scientific visualization, ray tracing, and optical interference**.  
